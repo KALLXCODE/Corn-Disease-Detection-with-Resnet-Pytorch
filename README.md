@@ -1,0 +1,1 @@
+# Corn-Disease-Detection-with-Resnet-Pytorch
